@@ -2,6 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base:'/docs/',
+  head:[["link",{rel:"icon", href:"/docs/logo.png"}]],
   title: "timetetng's docs",
   description: "A VitePress Site",
   themeConfig: {
