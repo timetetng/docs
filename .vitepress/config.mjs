@@ -61,7 +61,8 @@ export default defineConfig({
           { text: '公司系统',collapsed: false,link: '/开发文档/插件帮助/公司插件.md' },
           { text: '好感度系统',collapsed: false,link: '/开发文档/插件帮助/好感度系统.md' },
           { text: '昵称系统',collapsed: false,link: '/开发文档/插件帮助/昵称系统.md' },
-          { text: '成就系统',collapsed: false,link: '/开发文档/插件帮助/成就系统.md' }
+          { text: '成就系统',collapsed: false,link: '/开发文档/插件帮助/成就系统.md' },
+          { text: '银行系统',collapsed: false,link: '/开发文档/插件帮助/银行系统.md' },
         ]
 }
     
