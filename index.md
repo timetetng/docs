@@ -14,8 +14,8 @@ hero:
       text: 快速开始
       link: /开发文档/快速开始/快速开始
     - theme: alt
-      text: 虚拟股票 API 文档
-      link: /开发文档/虚拟股票API接口文档
+      text: 插件帮助文档
+      link: /开发文档/插件帮助/Guide
 
 features:
   - title: 模块化

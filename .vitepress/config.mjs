@@ -11,7 +11,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: '快速上手', link: '/开发文档/插件帮助/Guide.md' }
+      { text: '快速上手', link: '/开发文档/快速开始/快速开始.md' }
     ],
 
     sidebar: [
