@@ -63,6 +63,8 @@ export default defineConfig({
           { text: '昵称系统',collapsed: false,link: '/开发文档/插件帮助/昵称系统.md' },
           { text: '成就系统',collapsed: false,link: '/开发文档/插件帮助/成就系统.md' },
           { text: '银行系统',collapsed: false,link: '/开发文档/插件帮助/银行系统.md' },
+          { text: '红包插件',collapsed: false,link: '/开发文档/插件帮助/红包插件.md' },
+          { text: '小游戏汇总',collapsed: false,link: '/开发文档/插件帮助/一些小游戏.md' },
         ]
 }
     
