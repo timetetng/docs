@@ -34,8 +34,8 @@ export default defineConfig({
         items: [
           { text: '经济系统',collapsed: false,link: '/开发文档/API文档/经济系统.md' },
           { text: '商店系统',collapsed: false,link: '/开发文档/API文档/商店系统.md' },
-          { text: '公司系统',collapsed: false,link: '/开发文档/API文档/公司系统.md' },
           { text: '股票插件',collapsed: false,link: '/开发文档/API文档/股票插件.md' },
+          { text: '公司系统',collapsed: false,link: '/开发文档/API文档/公司系统.md' },
           { text: '好感度系统',collapsed: false,link: '/开发文档/API文档/好感度系统.md' },
           { text: '昵称系统',collapsed: false,link: '/开发文档/API文档/昵称系统.md' },
           { text: '成就系统',collapsed: false,link: '/开发文档/API文档/成就系统.md' }
@@ -49,6 +49,20 @@ export default defineConfig({
 {text:"webk展示",collapsed:false,link:"https://stock.leewater.online/"}
   ],
   link:"/开发文档/虚拟股票API接口文档"
+},
+{
+  text:'插件帮助',
+  collapsed: false,
+        items: [
+          { text: '快速上手',collapsed: false,link: '/开发文档/插件帮助/Guide.md' },
+          { text: '经济系统',collapsed: false,link: '/开发文档/插件帮助/签到插件.md' },
+          { text: '商店系统',collapsed: false,link: '/开发文档/插件帮助/商店系统.md' },
+          { text: '股票插件',collapsed: false,link: '/开发文档/插件帮助/股票插件.md' },
+          { text: '公司系统',collapsed: false,link: '/开发文档/插件帮助/公司插件.md' },
+          { text: '好感度系统',collapsed: false,link: '/开发文档/插件帮助/好感度系统.md' },
+          { text: '昵称系统',collapsed: false,link: '/开发文档/插件帮助/昵称系统.md' },
+          { text: '成就系统',collapsed: false,link: '/开发文档/插件帮助/成就系统.md' }
+        ]
 }
     
     ],
