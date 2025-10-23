@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "菲比BOT"
-  text: "一个可爱的群聊机器人"
-  tagline: 多框架、多模态、高定制化的群聊机器人
+  text: "聚合LLM多功能AI Agent"
+  tagline: 一个多框架、多模态、高定制化的群聊机器人
   image:
     src: /backgroud.png
     alt: VitePress
