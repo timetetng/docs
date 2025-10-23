@@ -1,5 +1,4 @@
-# Bot 信息
-
+# 菲比使用指南
 ### 菲比bot 二号机 (一号机已经似了)
 
 **主人QQ:** [1481273488](https://qm.qq.com/q/pdQVxqfUn8)
@@ -29,4 +28,28 @@
 #### 支持菲比:
 * ` /投喂 `: 投喂菲比 (这是最好的鼓励啦! 菲比会更努力的!)
 
-更多命令帮助请看下面章节(可能在施工中...)
+### 常用地址（持续更新）
+
+| 名称 | 地址 |
+| :--- | :--- |
+| 插件文档 | <https://docs.leewater.online> |
+| BOT公告页 | <https://page.leewater.online> |
+| 虚拟股票市场 | <https://stock.leewater.online> |
+
+## 加入 & 支持
+
+无论你想领养菲比、还是了解菲比的最新动态和使用方法，或者单纯想体验菲比BOT，都可以加入我们的 QQ 群聊！
+
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+  
+  <figure style="text-align: center; margin: 0; width: 250px;">
+    <img src="/开发文档/images/qqgroup.png" alt="QQ群" style="width: 100%; height: auto;">
+    <figcaption>加入我的个人QQ群</figcaption>
+  </figure>
+  
+  <figure style="text-align: center; margin: 0; width: 250px;">
+    <img src="/开发文档/images/dona.jpg" alt="赞赏码" style="width: 100%; height: auto;">
+    <figcaption>微信赞赏码</figcaption>
+  </figure>
+
+</div>
