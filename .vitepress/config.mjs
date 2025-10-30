@@ -91,6 +91,11 @@ export default defineConfig({
             collapsed: false,
             link: "/开发文档/插件帮助/一些小游戏.md",
           },
+            {
+            text: "其他插件",
+            collapsed: false,
+            link: "/开发文档/插件帮助/其他插件.md",
+          },
         ],
       },
       {
