@@ -33,7 +33,6 @@
 | 名称 | 地址 |
 | :--- | :--- |
 | 插件文档 | <https://docs.leewater.online> |
-| BOT公告页 | <https://page.leewater.online> |
 | 虚拟股票市场 | <https://stock.leewater.online> |
 
 ## 加入 & 支持
