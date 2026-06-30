@@ -19,9 +19,9 @@ hero:
 
 features:
   - title: 多框架
-    details: 聚合 LLM 聊天、经济系统、好感度、记忆系统、知识库、鸣潮游戏查询等多种框架
+    details: 聚合 LLM 聊天、好感度、记忆系统、知识库、鸣潮游戏查询等多种框架
   - title: 模块化
-    details: 所有插件均可将经济系统 API 作为自己的经济核心
+    details: 所有插件源码均开源，可按需部署并启用经济系统 API
   - title: API接口
     details: 提供多种 API 接口供其他插件调用
   - title: 灵活性

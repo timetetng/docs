@@ -47,6 +47,11 @@ export default defineConfig({
             link: "/开发文档/插件帮助/签到插件.md",
           },
           {
+            text: "今日运势 (JRYS)",
+            collapsed: false,
+            link: "/开发文档/插件帮助/今日运势.md",
+          },
+          {
             text: "商店系统",
             collapsed: false,
             link: "/开发文档/插件帮助/商店系统.md",
@@ -90,6 +95,41 @@ export default defineConfig({
             text: "小游戏汇总",
             collapsed: false,
             link: "/开发文档/插件帮助/一些小游戏.md",
+          },
+          {
+            text: "娱乐插件汇总",
+            collapsed: false,
+            link: "/开发文档/插件帮助/娱乐插件.md",
+          },
+          {
+            text: "OSU 插件",
+            collapsed: false,
+            link: "/开发文档/插件帮助/OSU插件.md",
+          },
+          {
+            text: "鸣潮功能汇总",
+            collapsed: false,
+            link: "/开发文档/插件帮助/鸣潮功能汇总.md",
+          },
+          {
+            text: "鸣潮UID (XWUID)",
+            collapsed: false,
+            link: "/开发文档/插件帮助/XWUID.md",
+          },
+          {
+            text: "鸣潮声骸评分",
+            collapsed: false,
+            link: "/开发文档/插件帮助/鸣潮声骸评分.md",
+          },
+          {
+            text: "鸣潮抽卡模拟",
+            collapsed: false,
+            link: "/开发文档/插件帮助/鸣潮抽卡模拟.md",
+          },
+          {
+            text: "异环UID (NTEUID)",
+            collapsed: false,
+            link: "/开发文档/插件帮助/异环UID.md",
           },
             {
             text: "其他插件",
@@ -150,18 +190,13 @@ export default defineConfig({
         ],
       },
       {
-        text: "虚拟股票插件",
-        collapsed: false,
+        text: "虚拟股票插件 (实例已下线)",
+        collapsed: true,
         items: [
           {
             text: "web API 接口文档",
             collapsed: false,
             link: "/开发文档/虚拟股票API接口文档",
-          },
-          {
-            text: "webk展示",
-            collapsed: false,
-            link: "https://stock.leewater.online/",
           },
         ],
         link: "/开发文档/虚拟股票API接口文档",
