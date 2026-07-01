@@ -1,4 +1,4 @@
-# 鸣潮 UID 插件 (XWUID)
+# 鸣潮查询插件 (XWUID)
 
 `XWUID` 是 `XutheringWavesUID` 的 fork（之前称 `WWUID`），基于 Gscore 框架，用于查询《鸣潮》游戏内的各种信息。
 

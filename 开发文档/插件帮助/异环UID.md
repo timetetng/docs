@@ -1,4 +1,4 @@
-# 异环 UID (NTEUID)
+# 异环查询插件(NTEUID)
 
 类似 `XutheringWavesUID` 的异环版本，基于 Gscore 框架，用于查询《异环》游戏内的各类信息。
 
