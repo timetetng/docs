@@ -1,3 +1,3 @@
-# Astrbot 经济系统文档
+# 菲比 BOT 文档
 
-文档地址: https://docs.leewater.online
+文档地址: https://docs.lsgbin.com
